@@ -1,0 +1,215 @@
+	Country_Code	Country_Name	Region	Year	Value	ISON	Income_Group
+198	CZE	Czechia	Europe & Central Asia	2015	1	203	High income
+369	SDN	Sudan	Sub-Saharan Africa	2015	3	729	Low income
+432	MUS	Mauritius	Sub-Saharan Africa	2015	1	480	Upper middle income
+495	DNK	Denmark	Europe & Central Asia	2015	1	208	High income
+605	KNA	St. Kitts and Nevis	Latin America & Caribbean	2015	1	659	High income
+825	MRT	Mauritania	Sub-Saharan Africa	2015	4	478	Lower middle income
+888	LCA	St. Lucia	Latin America & Caribbean	2015	4	662	Upper middle income
+1016	SSD	South Sudan	Sub-Saharan Africa	2015	3	728	Low income
+1114	IMN	Isle of Man	Europe & Central Asia	2015	1	833	High income
+1177	MEX	Mexico	Latin America & Caribbean	2015	1	484	Upper middle income
+1240	JOR	Jordan	Middle East & North Africa	2015	1	400	Upper middle income
+1319	SOM	Somalia	Sub-Saharan Africa	2015	1	706	Low income
+1429	SLB	Solomon Islands	East Asia & Pacific	2015	3	90	Lower middle income
+1492	ZAF	South Africa	Sub-Saharan Africa	2015	1	710	Upper middle income
+1578	SGP	Singapore	East Asia & Pacific	2015	1	702	High income
+1617	ESP	Spain	Europe & Central Asia	2015	1	724	High income
+1743	MDG	Madagascar	Sub-Saharan Africa	2015	4	450	Low income
+1935	ISR	Israel	Middle East & North Africa	2015	1	376	High income
+2057	SYC	Seychelles	Sub-Saharan Africa	2015	1	690	High income
+2120	SVN	Slovenia	Europe & Central Asia	2015	1	705	High income
+2183	LBR	Liberia	Sub-Saharan Africa	2015	3	430	Low income
+2231	DOM	Dominican Republic	Latin America & Caribbean	2015	1	214	Upper middle income
+2280	SLE	Sierra Leone	Sub-Saharan Africa	2015	3	694	Low income
+2343	SXM	Sint Maarten (Dutch part)	Latin America & Caribbean	2015	1	534	High income
+2440	LKA	Sri Lanka	South Asia	2015	4	144	Lower middle income
+2503	KIR	Kiribati	East Asia & Pacific	2015	3	296	Lower middle income
+2566	KWT	Kuwait	Middle East & North Africa	2015	1	414	High income
+2629	MWI	Malawi	Sub-Saharan Africa	2015	4	454	Low income
+2687	FSM	Micronesia, Fed. Sts.	East Asia & Pacific	2015	3	583	Lower middle income
+2758	KOR	Korea, Rep.	East Asia & Pacific	2015	1	410	High income
+2971	PRK	Korea, Dem. People's Rep.	East Asia & Pacific	2015	1	408	Low income
+3034	KAZ	Kazakhstan	Europe & Central Asia	2015	1	398	Upper middle income
+3097	TLS	Timor-Leste	East Asia & Pacific	2015	4	626	Lower middle income
+3175	CHE	Switzerland	Europe & Central Asia	2015	1	756	High income
+3257	DJI	Djibouti	Middle East & North Africa	2015	3	262	Lower middle income
+3320	JPN	Japan	East Asia & Pacific	2015	1	392	High income
+3383	LIE	Liechtenstein	Europe & Central Asia	2015	1	438	High income
+3438	MAC	Macao SAR, China	East Asia & Pacific	2015	1	446	High income
+3564	VEN	Venezuela, RB	Latin America & Caribbean	2015	1	862	
+3676	DMA	Dominica	Latin America & Caribbean	2015	3	212	Upper middle income
+3739	TUV	Tuvalu	East Asia & Pacific	2015	3	798	Upper middle income
+3803	SVK	Slovak Republic	Europe & Central Asia	2015	1	703	High income
+3968	LBY	Libya	Middle East & North Africa	2015	1	434	Upper middle income
+4083	MDA	Moldova	Europe & Central Asia	2015	5	498	Upper middle income
+4146	TUR	Turkiye	Europe & Central Asia	2015	1	792	Upper middle income
+4209	MNG	Mongolia	East Asia & Pacific	2015	4	496	Lower middle income
+4272	NPL	Nepal	South Asia	2015	4	524	Lower middle income
+4306	TGO	Togo	Sub-Saharan Africa	2015	3	768	Low income
+4369	SYR	Syrian Arab Republic	Middle East & North Africa	2015	1	760	Low income
+4432	URY	Uruguay	Latin America & Caribbean	2015	1	858	High income
+4495	GBR	United Kingdom	Europe & Central Asia	2015	1	826	High income
+4558	PAK	Pakistan	South Asia	2015	3	586	Lower middle income
+4591	LSO	Lesotho	Sub-Saharan Africa	2015	4	426	Lower middle income
+4654	LVA	Latvia	Europe & Central Asia	2015	1	428	High income
+4717	TON	Tonga	East Asia & Pacific	2015	3	776	Upper middle income
+4780	TUN	Tunisia	Middle East & North Africa	2015	1	788	Lower middle income
+4843	TCA	Turks and Caicos Islands	Latin America & Caribbean	2015	1	796	High income
+4906	ERI	Eritrea	Sub-Saharan Africa	2015	3	232	Low income
+4969	PNG	Papua New Guinea	East Asia & Pacific	2015	3	598	Lower middle income
+5032	OMN	Oman	Middle East & North Africa	2015	1	512	High income
+5052	SWE	Sweden	Europe & Central Asia	2015	1	752	High income
+5178	TJK	Tajikistan	Europe & Central Asia	2015	4	762	Lower middle income
+5241	THA	Thailand	East Asia & Pacific	2015	1	764	Upper middle income
+5304	UGA	Uganda	Sub-Saharan Africa	2015	4	800	Low income
+5338	MDV	Maldives	South Asia	2015	4	462	Upper middle income
+5401	MCO	Monaco	Europe & Central Asia	2015	1	492	High income
+5464	ZWE	Zimbabwe	Sub-Saharan Africa	2015	4	716	Lower middle income
+5509	VCT	St. Vincent and the Grenadines	Latin America & Caribbean	2015	4	670	Upper middle income
+5572	JAM	Jamaica	Latin America & Caribbean	2015	1	388	Upper middle income
+5635	TTO	Trinidad and Tobago	Latin America & Caribbean	2015	1	780	High income
+5673	LUX	Luxembourg	Europe & Central Asia	2015	1	442	High income
+5736	LTU	Lithuania	Europe & Central Asia	2015	1	440	High income
+5799	PSE	West Bank and Gaza	Middle East & North Africa	2015	1	275	Lower middle income
+5862	UZB	Uzbekistan	Europe & Central Asia	2015	4	860	Lower middle income
+5975	RWA	Rwanda	Sub-Saharan Africa	2015	5	646	Low income
+6038	EST	Estonia	Europe & Central Asia	2015	1	233	High income
+6101	ROU	Romania	Europe & Central Asia	2015	1	642	High income
+6164	SAU	Saudi Arabia	Middle East & North Africa	2015	1	682	High income
+6242	EGY	Egypt, Arab Rep.	Middle East & North Africa	2015	1	818	Lower middle income
+6305	YEM	Yemen, Rep.	Middle East & North Africa	2015	2	887	Low income
+6368	VIR	Virgin Islands (U.S.)	Latin America & Caribbean	2015	1	850	High income
+6445	SUR	Suriname	Latin America & Caribbean	2015	1	740	Upper middle income
+6508	USA	United States	North America	2015	1	840	High income
+6610	MAF	St. Martin (French part)	Latin America & Caribbean	2015	1	663	High income
+6673	GRD	Grenada	Latin America & Caribbean	2015	4	308	Upper middle income
+6710	ZMB	Zambia	Sub-Saharan Africa	2015	3	894	Low income
+6773	VUT	Vanuatu	East Asia & Pacific	2015	4	548	Lower middle income
+6836	MNE	Montenegro	Europe & Central Asia	2015	1	499	Upper middle income
+6899	SLV	El Salvador	Latin America & Caribbean	2015	1	222	Lower middle income
+6962	GHA	Ghana	Sub-Saharan Africa	2015	4	288	Lower middle income
+7043	ITA	Italy	Europe & Central Asia	2015	1	380	High income
+7098	KEN	Kenya	Sub-Saharan Africa	2015	4	404	Lower middle income
+7161	TKM	Turkmenistan	Europe & Central Asia	2015	1	795	Upper middle income
+7224	VNM	Vietnam	East Asia & Pacific	2015	5	704	Lower middle income
+7319	PRT	Portugal	Europe & Central Asia	2015	1	620	High income
+7437	MOZ	Mozambique	Sub-Saharan Africa	2015	4	508	Low income
+7500	NER	Niger	Sub-Saharan Africa	2015	3	562	Low income
+7563	NZL	New Zealand	East Asia & Pacific	2015	1	554	High income
+7626	NOR	Norway	Europe & Central Asia	2015	1	578	High income
+7689	MKD	North Macedonia	Europe & Central Asia	2015	1	807	Upper middle income
+7752	IDN	Indonesia	East Asia & Pacific	2015	1	360	Lower middle income
+7815	MHL	Marshall Islands	East Asia & Pacific	2015	3	584	Upper middle income
+7878	ATG	Antigua and Barbuda	Latin America & Caribbean	2015	1	28	High income
+7941	BHR	Bahrain	Middle East & North Africa	2015	1	48	High income
+8004	BOL	Bolivia	Latin America & Caribbean	2015	4	68	Lower middle income
+8067	BRN	Brunei Darussalam	East Asia & Pacific	2015	1	96	High income
+8119	MYS	Malaysia	East Asia & Pacific	2015	1	458	Upper middle income
+8148	UKR	Ukraine	Europe & Central Asia	2015	1	804	Lower middle income
+8211	SEN	Senegal	Sub-Saharan Africa	2015	4	686	Lower middle income
+8274	FRO	Faroe Islands	Europe & Central Asia	2015	1	234	High income
+8337	STP	Sao Tome and Principe	Sub-Saharan Africa	2015	3	678	Lower middle income
+8400	AFG	Afghanistan	South Asia	2015	2	4	Low income
+8414	LAO	Lao PDR	East Asia & Pacific	2015	4	418	Lower middle income
+8477	KGZ	Kyrgyz Republic	Europe & Central Asia	2015	5	417	Lower middle income
+8540	GNQ	Equatorial Guinea	Sub-Saharan Africa	2015	1	226	Upper middle income
+8603	MAR	Morocco	Middle East & North Africa	2015	1	504	Lower middle income
+8666	NLD	Netherlands	Europe & Central Asia	2015	1	528	High income
+8729	NCL	New Caledonia	East Asia & Pacific	2015	1	540	High income
+8760	ETH	Ethiopia	Sub-Saharan Africa	2015	3	231	Low income
+8823	SMR	San Marino	Europe & Central Asia	2015	1	674	High income
+8886	GIN	Guinea	Sub-Saharan Africa	2015	3	324	Low income
+8949	GUM	Guam	East Asia & Pacific	2015	1	316	High income
+9012	GRL	Greenland	Europe & Central Asia	2015	1	304	High income
+9075	FIN	Finland	Europe & Central Asia	2015	1	246	High income
+9138	GRC	Greece	Europe & Central Asia	2015	1	300	High income
+9201	HTI	Haiti	Latin America & Caribbean	2015	3	332	Lower middle income
+9264	HKG	Hong Kong SAR, China	East Asia & Pacific	2015	1	344	High income
+9327	HUN	Hungary	Europe & Central Asia	2015	1	348	High income
+9390	BHS	Bahamas, The	Latin America & Caribbean	2015	1	44	High income
+9453	BEN	Benin	Sub-Saharan Africa	2015	4	204	Lower middle income
+9527	ECU	Ecuador	Latin America & Caribbean	2015	1	218	Upper middle income
+9590	MNP	Northern Mariana Islands	East Asia & Pacific	2015	1	580	High income
+9653	NIC	Nicaragua	Latin America & Caribbean	2015	4	558	Lower middle income
+9716	PYF	French Polynesia	East Asia & Pacific	2015	1	258	High income
+9779	FRA	France	Europe & Central Asia	2015	1	250	High income
+9818	SRB	Serbia	Europe & Central Asia	2015	1	688	Upper middle income
+9881	GAB	Gabon	Sub-Saharan Africa	2015	1	266	Upper middle income
+9944	GEO	Georgia	Europe & Central Asia	2015	1	268	Upper middle income
+10007	GMB	Gambia, The	Sub-Saharan Africa	2015	4	270	Low income
+10070	DEU	Germany	Europe & Central Asia	2015	1	276	High income
+10133	HND	Honduras	Latin America & Caribbean	2015	4	340	Lower middle income
+10196	IRQ	Iraq	Middle East & North Africa	2015	1	368	Upper middle income
+10259	MLT	Malta	Middle East & North Africa	2015	1	470	High income
+10322	AZE	Azerbaijan	Europe & Central Asia	2015	1	31	Upper middle income
+10385	CAN	Canada	North America	2015	1	124	High income
+10428	GTM	Guatemala	Latin America & Caribbean	2015	1	320	Upper middle income
+10491	ABW	Aruba	Latin America & Caribbean	2015	1	533	High income
+10554	CIV	Cote d'Ivoire	Sub-Saharan Africa	2015	3	384	Lower middle income
+10583	PRY	Paraguay	Latin America & Caribbean	2015	1	600	Upper middle income
+10646	PAN	Panama	Latin America & Caribbean	2015	1	591	High income
+10772	DZA	Algeria	Middle East & North Africa	2015	1	12	Lower middle income
+10835	AND	Andorra	Europe & Central Asia	2015	1	20	High income
+10898	MLI	Mali	Sub-Saharan Africa	2015	3	466	Low income
+10961	ASM	American Samoa	East Asia & Pacific	2015	1	16	Upper middle income
+11031	NRU	Nauru	East Asia & Pacific	2015	1	520	High income
+11094	WSM	Samoa	East Asia & Pacific	2015	4	882	Lower middle income
+11157	SWZ	Eswatini	Sub-Saharan Africa	2015	1	748	Lower middle income
+11346	BFA	Burkina Faso	Sub-Saharan Africa	2015	4	854	Low income
+11444	PLW	Palau	East Asia & Pacific	2015	1	585	Upper middle income
+11507	PHL	Philippines	East Asia & Pacific	2015	1	608	Lower middle income
+11570	PRI	Puerto Rico	Latin America & Caribbean	2015	1	630	High income
+11633	GUY	Guyana	Latin America & Caribbean	2015	4	328	Upper middle income
+11696	ISL	Iceland	Europe & Central Asia	2015	1	352	High income
+11759	IRL	Ireland	Europe & Central Asia	2015	1	372	High income
+11822	AUS	Australia	East Asia & Pacific	2015	1	36	High income
+11885	BGD	Bangladesh	South Asia	2015	4	50	Lower middle income
+11948	BLR	Belarus	Europe & Central Asia	2015	1	112	Upper middle income
+12074	CYP	Cyprus	Europe & Central Asia	2015	1	196	High income
+12140	NGA	Nigeria	Sub-Saharan Africa	2015	3	566	Lower middle income
+12203	PER	Peru	Latin America & Caribbean	2015	1	604	Upper middle income
+12329	ARM	Armenia	Europe & Central Asia	2015	1	51	Upper middle income
+12533	IND	India	South Asia	2015	1	356	Lower middle income
+12596	BLZ	Belize	Latin America & Caribbean	2015	1	84	Upper middle income
+12659	BRB	Barbados	Latin America & Caribbean	2015	1	52	High income
+12722	COG	Congo, Rep.	Sub-Saharan Africa	2015	3	178	Lower middle income
+12785	CUW	Curacao	Latin America & Caribbean	2015	1	531	High income
+12859	ARE	United Arab Emirates	Middle East & North Africa	2015	1	784	High income
+12922	POL	Poland	Europe & Central Asia	2015	1	616	High income
+12985	FJI	Fiji	East Asia & Pacific	2015	1	242	Upper middle income
+13339	KHM	Cambodia	East Asia & Pacific	2015	4	116	Lower middle income
+13402	BDI	Burundi	Sub-Saharan Africa	2015	4	108	Low income
+13465	CMR	Cameroon	Sub-Saharan Africa	2015	3	120	Lower middle income
+13591	CPV	Cabo Verde	Sub-Saharan Africa	2015	4	132	Lower middle income
+13654	COD	Congo, Dem. Rep.	Sub-Saharan Africa	2015	3	180	Low income
+13717	CAF	Central African Republic	Sub-Saharan Africa	2015	3	140	Low income
+13982	CHN	China	East Asia & Pacific	2015	1	156	Upper middle income
+14165	HRV	Croatia	Europe & Central Asia	2015	1	191	High income
+14363	AGO	Angola	Sub-Saharan Africa	2015	1	24	Lower middle income
+14426	AUT	Austria	Europe & Central Asia	2015	1	40	High income
+14489	ARG	Argentina	Latin America & Caribbean	2015	1	32	Upper middle income
+14552	BMU	Bermuda	North America	2015	1	60	High income
+14615	BEL	Belgium	Europe & Central Asia	2015	1	56	High income
+14678	BTN	Bhutan	South Asia	2015	4	64	Lower middle income
+14741	BRA	Brazil	Latin America & Caribbean	2015	1	76	Upper middle income
+14804	BIH	Bosnia and Herzegovina	Europe & Central Asia	2015	1	70	Upper middle income
+14867	BWA	Botswana	Sub-Saharan Africa	2015	1	72	Upper middle income
+14932	ALB	Albania	Europe & Central Asia	2015	1	8	Upper middle income
+14995	COL	Colombia	Latin America & Caribbean	2015	1	170	Upper middle income
+15058	TCD	Chad	Sub-Saharan Africa	2015	3	148	Low income
+15099	COM	Comoros	Sub-Saharan Africa	2015	3	174	Lower middle income
+15309	LBN	Lebanon	Middle East & North Africa	2015	1	422	Lower middle income
+15372	TZA	Tanzania	Sub-Saharan Africa	2015	4	834	Lower middle income
+15435	GIB	Gibraltar	Europe & Central Asia	2015	1	292	High income
+15539	CYM	Cayman Islands	Latin America & Caribbean	2015	1	136	High income
+15608	GNB	Guinea-Bissau	Sub-Saharan Africa	2015	2	624	Low income
+15623	RUS	Russian Federation	Europe & Central Asia	2015	1	643	Upper middle income
+15686	QAT	Qatar	Middle East & North Africa	2015	1	634	High income
+15749	CUB	Cuba	Latin America & Caribbean	2015	1	192	Upper middle income
+16309	MMR	Myanmar	East Asia & Pacific	2015	3	104	Lower middle income
+16372	IRN	Iran, Islamic Rep.	Middle East & North Africa	2015	1	364	Lower middle income
+16435	VGB	British Virgin Islands	Latin America & Caribbean	2015	1	92	High income
+16498	BGR	Bulgaria	Europe & Central Asia	2015	1	100	Upper middle income
+16687	CRI	Costa Rica	Latin America & Caribbean	2015	1	188	Upper middle income
+16750	CHL	Chile	Latin America & Caribbean	2015	1	152	High income
