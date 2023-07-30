@@ -1,0 +1,215 @@
+	Country_Code	Country_Name	Region	Year	Value	ISON	Income_Group
+193	CZE	Czechia	Europe & Central Asia	2010	1	203	High income
+364	SDN	Sudan	Sub-Saharan Africa	2010	3	729	Low income
+427	MUS	Mauritius	Sub-Saharan Africa	2010	1	480	Upper middle income
+490	DNK	Denmark	Europe & Central Asia	2010	1	208	High income
+600	KNA	St. Kitts and Nevis	Latin America & Caribbean	2010	1	659	High income
+820	MRT	Mauritania	Sub-Saharan Africa	2010	4	478	Lower middle income
+883	LCA	St. Lucia	Latin America & Caribbean	2010	4	662	Upper middle income
+1011	SSD	South Sudan	Sub-Saharan Africa	2010	1	728	Low income
+1109	IMN	Isle of Man	Europe & Central Asia	2010	1	833	High income
+1172	MEX	Mexico	Latin America & Caribbean	2010	1	484	Upper middle income
+1235	JOR	Jordan	Middle East & North Africa	2010	1	400	Upper middle income
+1314	SOM	Somalia	Sub-Saharan Africa	2010	1	706	Low income
+1424	SLB	Solomon Islands	East Asia & Pacific	2010	3	90	Lower middle income
+1487	ZAF	South Africa	Sub-Saharan Africa	2010	1	710	Upper middle income
+1573	SGP	Singapore	East Asia & Pacific	2010	1	702	High income
+1612	ESP	Spain	Europe & Central Asia	2010	1	724	High income
+1738	MDG	Madagascar	Sub-Saharan Africa	2010	4	450	Low income
+1801	LUX	Luxembourg	Europe & Central Asia	2010	1	442	High income
+1930	ISR	Israel	Middle East & North Africa	2010	1	376	High income
+2052	SYC	Seychelles	Sub-Saharan Africa	2010	1	690	High income
+2115	SVN	Slovenia	Europe & Central Asia	2010	1	705	High income
+2178	LBR	Liberia	Sub-Saharan Africa	2010	3	430	Low income
+2226	DOM	Dominican Republic	Latin America & Caribbean	2010	1	214	Upper middle income
+2275	SLE	Sierra Leone	Sub-Saharan Africa	2010	3	694	Low income
+2338	SXM	Sint Maarten (Dutch part)	Latin America & Caribbean	2010	1	534	High income
+2435	LKA	Sri Lanka	South Asia	2010	4	144	Lower middle income
+2498	KIR	Kiribati	East Asia & Pacific	2010	3	296	Lower middle income
+2561	KWT	Kuwait	Middle East & North Africa	2010	1	414	High income
+2624	MWI	Malawi	Sub-Saharan Africa	2010	4	454	Low income
+2682	FSM	Micronesia, Fed. Sts.	East Asia & Pacific	2010	1	583	Lower middle income
+2753	KOR	Korea, Rep.	East Asia & Pacific	2010	1	410	High income
+2966	PRK	Korea, Dem. People's Rep.	East Asia & Pacific	2010	1	408	Low income
+3029	KAZ	Kazakhstan	Europe & Central Asia	2010	1	398	Upper middle income
+3092	TLS	Timor-Leste	East Asia & Pacific	2010	4	626	Lower middle income
+3170	CHE	Switzerland	Europe & Central Asia	2010	1	756	High income
+3252	DJI	Djibouti	Middle East & North Africa	2010	3	262	Lower middle income
+3315	JPN	Japan	East Asia & Pacific	2010	1	392	High income
+3378	LIE	Liechtenstein	Europe & Central Asia	2010	1	438	High income
+3433	MAC	Macao SAR, China	East Asia & Pacific	2010	1	446	High income
+3559	VEN	Venezuela, RB	Latin America & Caribbean	2010	1	862	
+3622	ZMB	Zambia	Sub-Saharan Africa	2010	4	894	Low income
+3671	DMA	Dominica	Latin America & Caribbean	2010	3	212	Upper middle income
+3734	TUV	Tuvalu	East Asia & Pacific	2010	1	798	Upper middle income
+3798	SVK	Slovak Republic	Europe & Central Asia	2010	1	703	High income
+3861	MDV	Maldives	South Asia	2010	4	462	Upper middle income
+3963	LBY	Libya	Middle East & North Africa	2010	1	434	Upper middle income
+4078	MDA	Moldova	Europe & Central Asia	2010	5	498	Upper middle income
+4141	TUR	Turkiye	Europe & Central Asia	2010	1	792	Upper middle income
+4204	MNG	Mongolia	East Asia & Pacific	2010	4	496	Lower middle income
+4267	NPL	Nepal	South Asia	2010	4	524	Lower middle income
+4301	TGO	Togo	Sub-Saharan Africa	2010	3	768	Low income
+4364	SYR	Syrian Arab Republic	Middle East & North Africa	2010	1	760	Low income
+4427	URY	Uruguay	Latin America & Caribbean	2010	1	858	High income
+4490	GBR	United Kingdom	Europe & Central Asia	2010	1	826	High income
+4553	PAK	Pakistan	South Asia	2010	2	586	Lower middle income
+4586	LSO	Lesotho	Sub-Saharan Africa	2010	4	426	Lower middle income
+4649	LVA	Latvia	Europe & Central Asia	2010	1	428	High income
+4712	TON	Tonga	East Asia & Pacific	2010	3	776	Upper middle income
+4775	TUN	Tunisia	Middle East & North Africa	2010	1	788	Lower middle income
+4838	TCA	Turks and Caicos Islands	Latin America & Caribbean	2010	1	796	High income
+4901	ERI	Eritrea	Sub-Saharan Africa	2010	4	232	Low income
+4964	PNG	Papua New Guinea	East Asia & Pacific	2010	3	598	Lower middle income
+5027	OMN	Oman	Middle East & North Africa	2010	1	512	High income
+5047	SWE	Sweden	Europe & Central Asia	2010	1	752	High income
+5173	TJK	Tajikistan	Europe & Central Asia	2010	4	762	Lower middle income
+5236	THA	Thailand	East Asia & Pacific	2010	1	764	Upper middle income
+5299	UGA	Uganda	Sub-Saharan Africa	2010	4	800	Low income
+5396	MCO	Monaco	Europe & Central Asia	2010	1	492	High income
+5459	ZWE	Zimbabwe	Sub-Saharan Africa	2010	3	716	Lower middle income
+5504	VCT	St. Vincent and the Grenadines	Latin America & Caribbean	2010	4	670	Upper middle income
+5567	JAM	Jamaica	Latin America & Caribbean	2010	1	388	Upper middle income
+5630	TTO	Trinidad and Tobago	Latin America & Caribbean	2010	1	780	High income
+5731	LTU	Lithuania	Europe & Central Asia	2010	1	440	High income
+5794	PSE	West Bank and Gaza	Middle East & North Africa	2010	1	275	Lower middle income
+5857	UZB	Uzbekistan	Europe & Central Asia	2010	4	860	Lower middle income
+5970	RWA	Rwanda	Sub-Saharan Africa	2010	4	646	Low income
+6033	EST	Estonia	Europe & Central Asia	2010	1	233	High income
+6096	ROU	Romania	Europe & Central Asia	2010	1	642	High income
+6159	SAU	Saudi Arabia	Middle East & North Africa	2010	1	682	High income
+6237	EGY	Egypt, Arab Rep.	Middle East & North Africa	2010	1	818	Lower middle income
+6300	YEM	Yemen, Rep.	Middle East & North Africa	2010	2	887	Low income
+6363	VIR	Virgin Islands (U.S.)	Latin America & Caribbean	2010	1	850	High income
+6426	MMR	Myanmar	East Asia & Pacific	2010	1	104	Lower middle income
+6440	SUR	Suriname	Latin America & Caribbean	2010	1	740	Upper middle income
+6503	USA	United States	North America	2010	1	840	High income
+6605	MAF	St. Martin (French part)	Latin America & Caribbean	2010	1	663	High income
+6668	GRD	Grenada	Latin America & Caribbean	2010	5	308	Upper middle income
+6768	VUT	Vanuatu	East Asia & Pacific	2010	4	548	Lower middle income
+6831	MNE	Montenegro	Europe & Central Asia	2010	1	499	Upper middle income
+6894	SLV	El Salvador	Latin America & Caribbean	2010	1	222	Lower middle income
+6957	GHA	Ghana	Sub-Saharan Africa	2010	4	288	Lower middle income
+7038	ITA	Italy	Europe & Central Asia	2010	1	380	High income
+7093	KEN	Kenya	Sub-Saharan Africa	2010	4	404	Lower middle income
+7156	TKM	Turkmenistan	Europe & Central Asia	2010	1	795	Upper middle income
+7219	VNM	Vietnam	East Asia & Pacific	2010	5	704	Lower middle income
+7314	PRT	Portugal	Europe & Central Asia	2010	1	620	High income
+7432	MOZ	Mozambique	Sub-Saharan Africa	2010	4	508	Low income
+7495	NER	Niger	Sub-Saharan Africa	2010	3	562	Low income
+7558	NZL	New Zealand	East Asia & Pacific	2010	1	554	High income
+7621	NOR	Norway	Europe & Central Asia	2010	1	578	High income
+7684	MKD	North Macedonia	Europe & Central Asia	2010	1	807	Upper middle income
+7747	IDN	Indonesia	East Asia & Pacific	2010	1	360	Lower middle income
+7810	MHL	Marshall Islands	East Asia & Pacific	2010	1	584	Upper middle income
+7873	ATG	Antigua and Barbuda	Latin America & Caribbean	2010	1	28	High income
+7936	BHR	Bahrain	Middle East & North Africa	2010	1	48	High income
+7999	BOL	Bolivia	Latin America & Caribbean	2010	4	68	Lower middle income
+8062	BRN	Brunei Darussalam	East Asia & Pacific	2010	1	96	High income
+8114	MYS	Malaysia	East Asia & Pacific	2010	1	458	Upper middle income
+8143	UKR	Ukraine	Europe & Central Asia	2010	1	804	Lower middle income
+8206	SEN	Senegal	Sub-Saharan Africa	2010	4	686	Lower middle income
+8269	FRO	Faroe Islands	Europe & Central Asia	2010	1	234	High income
+8332	STP	Sao Tome and Principe	Sub-Saharan Africa	2010	3	678	Lower middle income
+8395	AFG	Afghanistan	South Asia	2010	2	4	Low income
+8409	LAO	Lao PDR	East Asia & Pacific	2010	4	418	Lower middle income
+8472	KGZ	Kyrgyz Republic	Europe & Central Asia	2010	5	417	Lower middle income
+8535	GNQ	Equatorial Guinea	Sub-Saharan Africa	2010	1	226	Upper middle income
+8598	MAR	Morocco	Middle East & North Africa	2010	1	504	Lower middle income
+8661	NLD	Netherlands	Europe & Central Asia	2010	1	528	High income
+8724	NCL	New Caledonia	East Asia & Pacific	2010	1	540	High income
+8755	ETH	Ethiopia	Sub-Saharan Africa	2010	3	231	Low income
+8818	SMR	San Marino	Europe & Central Asia	2010	1	674	High income
+8881	GIN	Guinea	Sub-Saharan Africa	2010	4	324	Low income
+8944	GUM	Guam	East Asia & Pacific	2010	1	316	High income
+9007	GRL	Greenland	Europe & Central Asia	2010	1	304	High income
+9070	FIN	Finland	Europe & Central Asia	2010	1	246	High income
+9133	GRC	Greece	Europe & Central Asia	2010	1	300	High income
+9196	HTI	Haiti	Latin America & Caribbean	2010	3	332	Lower middle income
+9259	HKG	Hong Kong SAR, China	East Asia & Pacific	2010	1	344	High income
+9322	HUN	Hungary	Europe & Central Asia	2010	1	348	High income
+9385	BHS	Bahamas, The	Latin America & Caribbean	2010	1	44	High income
+9448	BEN	Benin	Sub-Saharan Africa	2010	4	204	Lower middle income
+9522	ECU	Ecuador	Latin America & Caribbean	2010	1	218	Upper middle income
+9585	MNP	Northern Mariana Islands	East Asia & Pacific	2010	1	580	High income
+9648	NIC	Nicaragua	Latin America & Caribbean	2010	4	558	Lower middle income
+9711	PYF	French Polynesia	East Asia & Pacific	2010	1	258	High income
+9774	FRA	France	Europe & Central Asia	2010	1	250	High income
+9813	SRB	Serbia	Europe & Central Asia	2010	1	688	Upper middle income
+9876	GAB	Gabon	Sub-Saharan Africa	2010	1	266	Upper middle income
+9939	GEO	Georgia	Europe & Central Asia	2010	5	268	Upper middle income
+10002	GMB	Gambia, The	Sub-Saharan Africa	2010	4	270	Low income
+10065	DEU	Germany	Europe & Central Asia	2010	1	276	High income
+10128	HND	Honduras	Latin America & Caribbean	2010	4	340	Lower middle income
+10191	IRQ	Iraq	Middle East & North Africa	2010	1	368	Upper middle income
+10254	MLT	Malta	Middle East & North Africa	2010	1	470	High income
+10317	AZE	Azerbaijan	Europe & Central Asia	2010	4	31	Upper middle income
+10380	CAN	Canada	North America	2010	1	124	High income
+10423	GTM	Guatemala	Latin America & Caribbean	2010	1	320	Upper middle income
+10486	ABW	Aruba	Latin America & Caribbean	2010	1	533	High income
+10549	CIV	Cote d'Ivoire	Sub-Saharan Africa	2010	3	384	Lower middle income
+10578	PRY	Paraguay	Latin America & Caribbean	2010	1	600	Upper middle income
+10641	PAN	Panama	Latin America & Caribbean	2010	1	591	High income
+10767	DZA	Algeria	Middle East & North Africa	2010	1	12	Lower middle income
+10830	AND	Andorra	Europe & Central Asia	2010	1	20	High income
+10893	MLI	Mali	Sub-Saharan Africa	2010	4	466	Low income
+10956	ASM	American Samoa	East Asia & Pacific	2010	1	16	Upper middle income
+11026	NRU	Nauru	East Asia & Pacific	2010	1	520	High income
+11089	WSM	Samoa	East Asia & Pacific	2010	4	882	Lower middle income
+11152	SWZ	Eswatini	Sub-Saharan Africa	2010	1	748	Lower middle income
+11341	BFA	Burkina Faso	Sub-Saharan Africa	2010	4	854	Low income
+11439	PLW	Palau	East Asia & Pacific	2010	1	585	Upper middle income
+11502	PHL	Philippines	East Asia & Pacific	2010	1	608	Lower middle income
+11565	PRI	Puerto Rico	Latin America & Caribbean	2010	1	630	High income
+11628	GUY	Guyana	Latin America & Caribbean	2010	4	328	Upper middle income
+11691	ISL	Iceland	Europe & Central Asia	2010	1	352	High income
+11754	IRL	Ireland	Europe & Central Asia	2010	1	372	High income
+11817	AUS	Australia	East Asia & Pacific	2010	1	36	High income
+11880	BGD	Bangladesh	South Asia	2010	4	50	Lower middle income
+11943	BLR	Belarus	Europe & Central Asia	2010	1	112	Upper middle income
+12069	CYP	Cyprus	Europe & Central Asia	2010	1	196	High income
+12135	NGA	Nigeria	Sub-Saharan Africa	2010	3	566	Lower middle income
+12198	PER	Peru	Latin America & Caribbean	2010	1	604	Upper middle income
+12324	ARM	Armenia	Europe & Central Asia	2010	5	51	Upper middle income
+12528	IND	India	South Asia	2010	4	356	Lower middle income
+12591	BLZ	Belize	Latin America & Caribbean	2010	1	84	Upper middle income
+12654	BRB	Barbados	Latin America & Caribbean	2010	1	52	High income
+12717	COG	Congo, Rep.	Sub-Saharan Africa	2010	3	178	Lower middle income
+12780	CUW	Curacao	Latin America & Caribbean	2010	1	531	High income
+12854	ARE	United Arab Emirates	Middle East & North Africa	2010	1	784	High income
+12917	POL	Poland	Europe & Central Asia	2010	1	616	High income
+12980	FJI	Fiji	East Asia & Pacific	2010	1	242	Upper middle income
+13334	KHM	Cambodia	East Asia & Pacific	2010	4	116	Lower middle income
+13397	BDI	Burundi	Sub-Saharan Africa	2010	4	108	Low income
+13460	CMR	Cameroon	Sub-Saharan Africa	2010	3	120	Lower middle income
+13586	CPV	Cabo Verde	Sub-Saharan Africa	2010	5	132	Lower middle income
+13649	COD	Congo, Dem. Rep.	Sub-Saharan Africa	2010	3	180	Low income
+13712	CAF	Central African Republic	Sub-Saharan Africa	2010	3	140	Low income
+13977	CHN	China	East Asia & Pacific	2010	1	156	Upper middle income
+14160	HRV	Croatia	Europe & Central Asia	2010	1	191	High income
+14358	AGO	Angola	Sub-Saharan Africa	2010	4	24	Lower middle income
+14421	AUT	Austria	Europe & Central Asia	2010	1	40	High income
+14484	ARG	Argentina	Latin America & Caribbean	2010	1	32	Upper middle income
+14547	BMU	Bermuda	North America	2010	1	60	High income
+14610	BEL	Belgium	Europe & Central Asia	2010	1	56	High income
+14673	BTN	Bhutan	South Asia	2010	4	64	Lower middle income
+14736	BRA	Brazil	Latin America & Caribbean	2010	1	76	Upper middle income
+14799	BIH	Bosnia and Herzegovina	Europe & Central Asia	2010	5	70	Upper middle income
+14862	BWA	Botswana	Sub-Saharan Africa	2010	1	72	Upper middle income
+14927	ALB	Albania	Europe & Central Asia	2010	1	8	Upper middle income
+14990	COL	Colombia	Latin America & Caribbean	2010	1	170	Upper middle income
+15053	TCD	Chad	Sub-Saharan Africa	2010	3	148	Low income
+15094	COM	Comoros	Sub-Saharan Africa	2010	3	174	Lower middle income
+15289	GNB	Guinea-Bissau	Sub-Saharan Africa	2010	3	624	Low income
+15304	LBN	Lebanon	Middle East & North Africa	2010	1	422	Lower middle income
+15367	TZA	Tanzania	Sub-Saharan Africa	2010	4	834	Lower middle income
+15430	GIB	Gibraltar	Europe & Central Asia	2010	1	292	High income
+15534	CYM	Cayman Islands	Latin America & Caribbean	2010	1	136	High income
+15618	RUS	Russian Federation	Europe & Central Asia	2010	1	643	Upper middle income
+15681	QAT	Qatar	Middle East & North Africa	2010	1	634	High income
+15744	CUB	Cuba	Latin America & Caribbean	2010	1	192	Upper middle income
+16367	IRN	Iran, Islamic Rep.	Middle East & North Africa	2010	1	364	Lower middle income
+16430	VGB	British Virgin Islands	Latin America & Caribbean	2010	1	92	High income
+16493	BGR	Bulgaria	Europe & Central Asia	2010	1	100	Upper middle income
+16682	CRI	Costa Rica	Latin America & Caribbean	2010	1	188	Upper middle income
+16745	CHL	Chile	Latin America & Caribbean	2010	1	152	High income

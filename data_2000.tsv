@@ -1,0 +1,215 @@
+	Country_Code	Country_Name	Region	Year	Value	ISON	Income_Group
+40	SLE	Sierra Leone	Sub-Saharan Africa	2000	1	694	Low income
+183	CZE	Czechia	Europe & Central Asia	2000	1	203	High income
+246	ESP	Spain	Europe & Central Asia	2000	1	724	High income
+354	SDN	Sudan	Sub-Saharan Africa	2000	1	729	Low income
+417	MUS	Mauritius	Sub-Saharan Africa	2000	1	480	Upper middle income
+480	DNK	Denmark	Europe & Central Asia	2000	1	208	High income
+543	SWE	Sweden	Europe & Central Asia	2000	1	752	High income
+590	KNA	St. Kitts and Nevis	Latin America & Caribbean	2000	1	659	High income
+810	MRT	Mauritania	Sub-Saharan Africa	2000	1	478	Lower middle income
+873	LCA	St. Lucia	Latin America & Caribbean	2000	1	662	Upper middle income
+952	SLB	Solomon Islands	East Asia & Pacific	2000	1	90	Lower middle income
+1001	SSD	South Sudan	Sub-Saharan Africa	2000	1	728	Low income
+1064	LKA	Sri Lanka	South Asia	2000	1	144	Lower middle income
+1099	IMN	Isle of Man	Europe & Central Asia	2000	1	833	High income
+1162	MEX	Mexico	Latin America & Caribbean	2000	1	484	Upper middle income
+1225	JOR	Jordan	Middle East & North Africa	2000	1	400	Upper middle income
+1304	SOM	Somalia	Sub-Saharan Africa	2000	1	706	Low income
+1477	ZAF	South Africa	Sub-Saharan Africa	2000	1	710	Upper middle income
+1563	SGP	Singapore	East Asia & Pacific	2000	1	702	High income
+1728	MDG	Madagascar	Sub-Saharan Africa	2000	1	450	Low income
+1791	LUX	Luxembourg	Europe & Central Asia	2000	1	442	High income
+1920	ISR	Israel	Middle East & North Africa	2000	1	376	High income
+2019	DOM	Dominican Republic	Latin America & Caribbean	2000	1	214	Upper middle income
+2042	SYC	Seychelles	Sub-Saharan Africa	2000	1	690	High income
+2105	SVN	Slovenia	Europe & Central Asia	2000	1	705	High income
+2168	LBR	Liberia	Sub-Saharan Africa	2000	1	430	Low income
+2328	SXM	Sint Maarten (Dutch part)	Latin America & Caribbean	2000	1	534	High income
+2488	KIR	Kiribati	East Asia & Pacific	2000	1	296	Lower middle income
+2551	KWT	Kuwait	Middle East & North Africa	2000	1	414	High income
+2614	MWI	Malawi	Sub-Saharan Africa	2000	1	454	Low income
+2672	FSM	Micronesia, Fed. Sts.	East Asia & Pacific	2000	1	583	Lower middle income
+2743	KOR	Korea, Rep.	East Asia & Pacific	2000	1	410	High income
+2956	PRK	Korea, Dem. People's Rep.	East Asia & Pacific	2000	1	408	Low income
+3019	KAZ	Kazakhstan	Europe & Central Asia	2000	1	398	Upper middle income
+3082	TLS	Timor-Leste	East Asia & Pacific	2000	1	626	Lower middle income
+3160	CHE	Switzerland	Europe & Central Asia	2000	1	756	High income
+3242	DJI	Djibouti	Middle East & North Africa	2000	1	262	Lower middle income
+3305	JPN	Japan	East Asia & Pacific	2000	1	392	High income
+3368	LIE	Liechtenstein	Europe & Central Asia	2000	1	438	High income
+3423	MAC	Macao SAR, China	East Asia & Pacific	2000	1	446	High income
+3549	VEN	Venezuela, RB	Latin America & Caribbean	2000	1	862	
+3612	ZMB	Zambia	Sub-Saharan Africa	2000	1	894	Low income
+3661	DMA	Dominica	Latin America & Caribbean	2000	1	212	Upper middle income
+3724	TUV	Tuvalu	East Asia & Pacific	2000	1	798	Upper middle income
+3788	SVK	Slovak Republic	Europe & Central Asia	2000	1	703	High income
+3851	MDV	Maldives	South Asia	2000	1	462	Upper middle income
+3953	LBY	Libya	Middle East & North Africa	2000	1	434	Upper middle income
+4016	LAO	Lao PDR	East Asia & Pacific	2000	1	418	Lower middle income
+4068	MDA	Moldova	Europe & Central Asia	2000	1	498	Upper middle income
+4131	TUR	Turkiye	Europe & Central Asia	2000	1	792	Upper middle income
+4194	MNG	Mongolia	East Asia & Pacific	2000	1	496	Lower middle income
+4257	NPL	Nepal	South Asia	2000	1	524	Lower middle income
+4291	TGO	Togo	Sub-Saharan Africa	2000	1	768	Low income
+4354	SYR	Syrian Arab Republic	Middle East & North Africa	2000	1	760	Low income
+4417	URY	Uruguay	Latin America & Caribbean	2000	1	858	High income
+4480	GBR	United Kingdom	Europe & Central Asia	2000	1	826	High income
+4543	PAK	Pakistan	South Asia	2000	1	586	Lower middle income
+4576	LSO	Lesotho	Sub-Saharan Africa	2000	1	426	Lower middle income
+4639	LVA	Latvia	Europe & Central Asia	2000	1	428	High income
+4702	TON	Tonga	East Asia & Pacific	2000	1	776	Upper middle income
+4765	TUN	Tunisia	Middle East & North Africa	2000	1	788	Lower middle income
+4828	TCA	Turks and Caicos Islands	Latin America & Caribbean	2000	1	796	High income
+4891	ERI	Eritrea	Sub-Saharan Africa	2000	1	232	Low income
+4954	PNG	Papua New Guinea	East Asia & Pacific	2000	1	598	Lower middle income
+5017	OMN	Oman	Middle East & North Africa	2000	1	512	High income
+5163	TJK	Tajikistan	Europe & Central Asia	2000	1	762	Lower middle income
+5226	THA	Thailand	East Asia & Pacific	2000	1	764	Upper middle income
+5289	UGA	Uganda	Sub-Saharan Africa	2000	1	800	Low income
+5386	MCO	Monaco	Europe & Central Asia	2000	1	492	High income
+5449	ZWE	Zimbabwe	Sub-Saharan Africa	2000	1	716	Lower middle income
+5494	VCT	St. Vincent and the Grenadines	Latin America & Caribbean	2000	1	670	Upper middle income
+5557	JAM	Jamaica	Latin America & Caribbean	2000	1	388	Upper middle income
+5620	TTO	Trinidad and Tobago	Latin America & Caribbean	2000	1	780	High income
+5721	LTU	Lithuania	Europe & Central Asia	2000	1	440	High income
+5784	PSE	West Bank and Gaza	Middle East & North Africa	2000	1	275	Lower middle income
+5847	UZB	Uzbekistan	Europe & Central Asia	2000	1	860	Lower middle income
+5944	SRB	Serbia	Europe & Central Asia	2000	1	688	Upper middle income
+5960	RWA	Rwanda	Sub-Saharan Africa	2000	1	646	Low income
+6023	EST	Estonia	Europe & Central Asia	2000	1	233	High income
+6086	ROU	Romania	Europe & Central Asia	2000	1	642	High income
+6149	SAU	Saudi Arabia	Middle East & North Africa	2000	1	682	High income
+6212	ETH	Ethiopia	Sub-Saharan Africa	2000	1	231	Low income
+6227	EGY	Egypt, Arab Rep.	Middle East & North Africa	2000	1	818	Lower middle income
+6290	YEM	Yemen, Rep.	Middle East & North Africa	2000	1	887	Low income
+6353	VIR	Virgin Islands (U.S.)	Latin America & Caribbean	2000	1	850	High income
+6416	MMR	Myanmar	East Asia & Pacific	2000	1	104	Lower middle income
+6430	SUR	Suriname	Latin America & Caribbean	2000	1	740	Upper middle income
+6493	USA	United States	North America	2000	1	840	High income
+6595	MAF	St. Martin (French part)	Latin America & Caribbean	2000	1	663	High income
+6658	GRD	Grenada	Latin America & Caribbean	2000	1	308	Upper middle income
+6758	VUT	Vanuatu	East Asia & Pacific	2000	1	548	Lower middle income
+6821	MNE	Montenegro	Europe & Central Asia	2000	1	499	Upper middle income
+6884	SLV	El Salvador	Latin America & Caribbean	2000	1	222	Lower middle income
+6947	GHA	Ghana	Sub-Saharan Africa	2000	1	288	Lower middle income
+7028	ITA	Italy	Europe & Central Asia	2000	1	380	High income
+7083	KEN	Kenya	Sub-Saharan Africa	2000	1	404	Lower middle income
+7146	TKM	Turkmenistan	Europe & Central Asia	2000	1	795	Upper middle income
+7209	VNM	Vietnam	East Asia & Pacific	2000	1	704	Lower middle income
+7304	PRT	Portugal	Europe & Central Asia	2000	1	620	High income
+7422	MOZ	Mozambique	Sub-Saharan Africa	2000	1	508	Low income
+7485	NER	Niger	Sub-Saharan Africa	2000	1	562	Low income
+7548	NZL	New Zealand	East Asia & Pacific	2000	1	554	High income
+7611	NOR	Norway	Europe & Central Asia	2000	1	578	High income
+7674	MKD	North Macedonia	Europe & Central Asia	2000	1	807	Upper middle income
+7737	IDN	Indonesia	East Asia & Pacific	2000	1	360	Lower middle income
+7800	MHL	Marshall Islands	East Asia & Pacific	2000	1	584	Upper middle income
+7863	ATG	Antigua and Barbuda	Latin America & Caribbean	2000	1	28	High income
+7926	BHR	Bahrain	Middle East & North Africa	2000	1	48	High income
+7989	BOL	Bolivia	Latin America & Caribbean	2000	1	68	Lower middle income
+8052	BRN	Brunei Darussalam	East Asia & Pacific	2000	1	96	High income
+8104	MYS	Malaysia	East Asia & Pacific	2000	1	458	Upper middle income
+8133	UKR	Ukraine	Europe & Central Asia	2000	1	804	Lower middle income
+8196	SEN	Senegal	Sub-Saharan Africa	2000	1	686	Lower middle income
+8259	FRO	Faroe Islands	Europe & Central Asia	2000	1	234	High income
+8322	STP	Sao Tome and Principe	Sub-Saharan Africa	2000	1	678	Lower middle income
+8385	AFG	Afghanistan	South Asia	2000	1	4	Low income
+8462	KGZ	Kyrgyz Republic	Europe & Central Asia	2000	1	417	Lower middle income
+8525	GNQ	Equatorial Guinea	Sub-Saharan Africa	2000	1	226	Upper middle income
+8588	MAR	Morocco	Middle East & North Africa	2000	1	504	Lower middle income
+8651	NLD	Netherlands	Europe & Central Asia	2000	1	528	High income
+8714	NCL	New Caledonia	East Asia & Pacific	2000	1	540	High income
+8745	RUS	Russian Federation	Europe & Central Asia	2000	1	643	Upper middle income
+8808	SMR	San Marino	Europe & Central Asia	2000	1	674	High income
+8871	GIN	Guinea	Sub-Saharan Africa	2000	1	324	Low income
+8934	GUM	Guam	East Asia & Pacific	2000	1	316	High income
+8997	GRL	Greenland	Europe & Central Asia	2000	1	304	High income
+9060	FIN	Finland	Europe & Central Asia	2000	1	246	High income
+9123	GRC	Greece	Europe & Central Asia	2000	1	300	High income
+9186	HTI	Haiti	Latin America & Caribbean	2000	1	332	Lower middle income
+9249	HKG	Hong Kong SAR, China	East Asia & Pacific	2000	1	344	High income
+9312	HUN	Hungary	Europe & Central Asia	2000	1	348	High income
+9375	BHS	Bahamas, The	Latin America & Caribbean	2000	1	44	High income
+9438	BEN	Benin	Sub-Saharan Africa	2000	1	204	Lower middle income
+9512	ECU	Ecuador	Latin America & Caribbean	2000	1	218	Upper middle income
+9575	MNP	Northern Mariana Islands	East Asia & Pacific	2000	1	580	High income
+9638	NIC	Nicaragua	Latin America & Caribbean	2000	1	558	Lower middle income
+9701	PYF	French Polynesia	East Asia & Pacific	2000	1	258	High income
+9764	FRA	France	Europe & Central Asia	2000	1	250	High income
+9866	GAB	Gabon	Sub-Saharan Africa	2000	1	266	Upper middle income
+9929	GEO	Georgia	Europe & Central Asia	2000	1	268	Upper middle income
+9992	GMB	Gambia, The	Sub-Saharan Africa	2000	1	270	Low income
+10055	DEU	Germany	Europe & Central Asia	2000	1	276	High income
+10118	HND	Honduras	Latin America & Caribbean	2000	1	340	Lower middle income
+10181	IRQ	Iraq	Middle East & North Africa	2000	1	368	Upper middle income
+10244	MLT	Malta	Middle East & North Africa	2000	1	470	High income
+10307	AZE	Azerbaijan	Europe & Central Asia	2000	1	31	Upper middle income
+10370	CAN	Canada	North America	2000	1	124	High income
+10413	GTM	Guatemala	Latin America & Caribbean	2000	1	320	Upper middle income
+10476	ABW	Aruba	Latin America & Caribbean	2000	1	533	High income
+10539	CIV	Cote d'Ivoire	Sub-Saharan Africa	2000	1	384	Lower middle income
+10568	PRY	Paraguay	Latin America & Caribbean	2000	1	600	Upper middle income
+10631	PAN	Panama	Latin America & Caribbean	2000	1	591	High income
+10757	DZA	Algeria	Middle East & North Africa	2000	1	12	Lower middle income
+10820	AND	Andorra	Europe & Central Asia	2000	1	20	High income
+10883	MLI	Mali	Sub-Saharan Africa	2000	1	466	Low income
+10946	ASM	American Samoa	East Asia & Pacific	2000	1	16	Upper middle income
+11016	NRU	Nauru	East Asia & Pacific	2000	1	520	High income
+11079	WSM	Samoa	East Asia & Pacific	2000	1	882	Lower middle income
+11142	SWZ	Eswatini	Sub-Saharan Africa	2000	1	748	Lower middle income
+11331	BFA	Burkina Faso	Sub-Saharan Africa	2000	1	854	Low income
+11429	PLW	Palau	East Asia & Pacific	2000	1	585	Upper middle income
+11492	PHL	Philippines	East Asia & Pacific	2000	1	608	Lower middle income
+11555	PRI	Puerto Rico	Latin America & Caribbean	2000	1	630	High income
+11618	GUY	Guyana	Latin America & Caribbean	2000	1	328	Upper middle income
+11681	ISL	Iceland	Europe & Central Asia	2000	1	352	High income
+11744	IRL	Ireland	Europe & Central Asia	2000	1	372	High income
+11807	AUS	Australia	East Asia & Pacific	2000	1	36	High income
+11870	BGD	Bangladesh	South Asia	2000	1	50	Lower middle income
+11933	BLR	Belarus	Europe & Central Asia	2000	1	112	Upper middle income
+12059	CYP	Cyprus	Europe & Central Asia	2000	1	196	High income
+12125	NGA	Nigeria	Sub-Saharan Africa	2000	1	566	Lower middle income
+12188	PER	Peru	Latin America & Caribbean	2000	1	604	Upper middle income
+12314	ARM	Armenia	Europe & Central Asia	2000	1	51	Upper middle income
+12518	IND	India	South Asia	2000	1	356	Lower middle income
+12581	BLZ	Belize	Latin America & Caribbean	2000	1	84	Upper middle income
+12644	BRB	Barbados	Latin America & Caribbean	2000	1	52	High income
+12707	COG	Congo, Rep.	Sub-Saharan Africa	2000	1	178	Lower middle income
+12770	CUW	Curacao	Latin America & Caribbean	2000	1	531	High income
+12844	ARE	United Arab Emirates	Middle East & North Africa	2000	1	784	High income
+12907	POL	Poland	Europe & Central Asia	2000	1	616	High income
+12970	FJI	Fiji	East Asia & Pacific	2000	1	242	Upper middle income
+13324	KHM	Cambodia	East Asia & Pacific	2000	1	116	Lower middle income
+13387	BDI	Burundi	Sub-Saharan Africa	2000	1	108	Low income
+13450	CMR	Cameroon	Sub-Saharan Africa	2000	1	120	Lower middle income
+13576	CPV	Cabo Verde	Sub-Saharan Africa	2000	1	132	Lower middle income
+13639	COD	Congo, Dem. Rep.	Sub-Saharan Africa	2000	1	180	Low income
+13702	CAF	Central African Republic	Sub-Saharan Africa	2000	1	140	Low income
+13967	CHN	China	East Asia & Pacific	2000	1	156	Upper middle income
+14150	HRV	Croatia	Europe & Central Asia	2000	1	191	High income
+14348	AGO	Angola	Sub-Saharan Africa	2000	1	24	Lower middle income
+14411	AUT	Austria	Europe & Central Asia	2000	1	40	High income
+14474	ARG	Argentina	Latin America & Caribbean	2000	1	32	Upper middle income
+14537	BMU	Bermuda	North America	2000	1	60	High income
+14600	BEL	Belgium	Europe & Central Asia	2000	1	56	High income
+14663	BTN	Bhutan	South Asia	2000	1	64	Lower middle income
+14726	BRA	Brazil	Latin America & Caribbean	2000	1	76	Upper middle income
+14789	BIH	Bosnia and Herzegovina	Europe & Central Asia	2000	1	70	Upper middle income
+14852	BWA	Botswana	Sub-Saharan Africa	2000	1	72	Upper middle income
+14917	ALB	Albania	Europe & Central Asia	2000	1	8	Upper middle income
+14980	COL	Colombia	Latin America & Caribbean	2000	1	170	Upper middle income
+15043	TCD	Chad	Sub-Saharan Africa	2000	1	148	Low income
+15084	COM	Comoros	Sub-Saharan Africa	2000	1	174	Lower middle income
+15279	GNB	Guinea-Bissau	Sub-Saharan Africa	2000	1	624	Low income
+15294	LBN	Lebanon	Middle East & North Africa	2000	1	422	Lower middle income
+15357	TZA	Tanzania	Sub-Saharan Africa	2000	1	834	Lower middle income
+15420	GIB	Gibraltar	Europe & Central Asia	2000	1	292	High income
+15524	CYM	Cayman Islands	Latin America & Caribbean	2000	1	136	High income
+15671	QAT	Qatar	Middle East & North Africa	2000	1	634	High income
+15734	CUB	Cuba	Latin America & Caribbean	2000	1	192	Upper middle income
+16357	IRN	Iran, Islamic Rep.	Middle East & North Africa	2000	1	364	Lower middle income
+16420	VGB	British Virgin Islands	Latin America & Caribbean	2000	1	92	High income
+16483	BGR	Bulgaria	Europe & Central Asia	2000	1	100	Upper middle income
+16672	CRI	Costa Rica	Latin America & Caribbean	2000	1	188	Upper middle income
+16735	CHL	Chile	Latin America & Caribbean	2000	1	152	High income

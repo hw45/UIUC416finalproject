@@ -1,0 +1,215 @@
+	Country_Code	Country_Name	Region	Year	Value	ISON	Income_Group
+203	CZE	Czechia	Europe & Central Asia	2020	1	203	High income
+374	SDN	Sudan	Sub-Saharan Africa	2020	3	729	Low income
+437	MUS	Mauritius	Sub-Saharan Africa	2020	1	480	Upper middle income
+500	DNK	Denmark	Europe & Central Asia	2020	1	208	High income
+830	MRT	Mauritania	Sub-Saharan Africa	2020	4	478	Lower middle income
+893	LCA	St. Lucia	Latin America & Caribbean	2020	4	662	Upper middle income
+1021	SSD	South Sudan	Sub-Saharan Africa	2020	2	728	Low income
+1119	IMN	Isle of Man	Europe & Central Asia	2020	1	833	High income
+1182	MEX	Mexico	Latin America & Caribbean	2020	1	484	Upper middle income
+1245	JOR	Jordan	Middle East & North Africa	2020	1	400	Upper middle income
+1324	SOM	Somalia	Sub-Saharan Africa	2020	2	706	Low income
+1434	SLB	Solomon Islands	East Asia & Pacific	2020	3	90	Lower middle income
+1497	ZAF	South Africa	Sub-Saharan Africa	2020	1	710	Upper middle income
+1520	KNA	St. Kitts and Nevis	Latin America & Caribbean	2020	1	659	High income
+1583	SGP	Singapore	East Asia & Pacific	2020	1	702	High income
+1622	ESP	Spain	Europe & Central Asia	2020	1	724	High income
+1748	MDG	Madagascar	Sub-Saharan Africa	2020	4	450	Low income
+1940	ISR	Israel	Middle East & North Africa	2020	1	376	High income
+2062	SYC	Seychelles	Sub-Saharan Africa	2020	1	690	High income
+2125	SVN	Slovenia	Europe & Central Asia	2020	1	705	High income
+2236	DOM	Dominican Republic	Latin America & Caribbean	2020	1	214	Upper middle income
+2285	SLE	Sierra Leone	Sub-Saharan Africa	2020	3	694	Low income
+2348	SXM	Sint Maarten (Dutch part)	Latin America & Caribbean	2020	1	534	High income
+2445	LKA	Sri Lanka	South Asia	2020	1	144	Lower middle income
+2508	KIR	Kiribati	East Asia & Pacific	2020	4	296	Lower middle income
+2571	KWT	Kuwait	Middle East & North Africa	2020	1	414	High income
+2692	FSM	Micronesia, Fed. Sts.	East Asia & Pacific	2020	3	583	Lower middle income
+2763	KOR	Korea, Rep.	East Asia & Pacific	2020	1	410	High income
+2976	PRK	Korea, Dem. People's Rep.	East Asia & Pacific	2020	1	408	Low income
+3039	KAZ	Kazakhstan	Europe & Central Asia	2020	1	398	Upper middle income
+3102	TLS	Timor-Leste	East Asia & Pacific	2020	4	626	Lower middle income
+3180	CHE	Switzerland	Europe & Central Asia	2020	1	756	High income
+3262	DJI	Djibouti	Middle East & North Africa	2020	4	262	Lower middle income
+3325	JPN	Japan	East Asia & Pacific	2020	1	392	High income
+3388	LIE	Liechtenstein	Europe & Central Asia	2020	1	438	High income
+3443	MAC	Macao SAR, China	East Asia & Pacific	2020	1	446	High income
+3569	VEN	Venezuela, RB	Latin America & Caribbean	2020	1	862	
+3681	DMA	Dominica	Latin America & Caribbean	2020	3	212	Upper middle income
+3744	TUV	Tuvalu	East Asia & Pacific	2020	3	798	Upper middle income
+3808	SVK	Slovak Republic	Europe & Central Asia	2020	1	703	High income
+3973	LBY	Libya	Middle East & North Africa	2020	1	434	Upper middle income
+4025	MWI	Malawi	Sub-Saharan Africa	2020	4	454	Low income
+4088	MDA	Moldova	Europe & Central Asia	2020	1	498	Upper middle income
+4151	TUR	Turkiye	Europe & Central Asia	2020	1	792	Upper middle income
+4214	MNG	Mongolia	East Asia & Pacific	2020	1	496	Lower middle income
+4277	NPL	Nepal	South Asia	2020	4	524	Lower middle income
+4311	TGO	Togo	Sub-Saharan Africa	2020	4	768	Low income
+4374	SYR	Syrian Arab Republic	Middle East & North Africa	2020	1	760	Low income
+4437	URY	Uruguay	Latin America & Caribbean	2020	1	858	High income
+4500	GBR	United Kingdom	Europe & Central Asia	2020	1	826	High income
+4563	PAK	Pakistan	South Asia	2020	3	586	Lower middle income
+4596	LSO	Lesotho	Sub-Saharan Africa	2020	4	426	Lower middle income
+4659	LVA	Latvia	Europe & Central Asia	2020	1	428	High income
+4722	TON	Tonga	East Asia & Pacific	2020	3	776	Upper middle income
+4785	TUN	Tunisia	Middle East & North Africa	2020	1	788	Lower middle income
+4848	TCA	Turks and Caicos Islands	Latin America & Caribbean	2020	1	796	High income
+4911	ERI	Eritrea	Sub-Saharan Africa	2020	3	232	Low income
+4974	PNG	Papua New Guinea	East Asia & Pacific	2020	3	598	Lower middle income
+5037	OMN	Oman	Middle East & North Africa	2020	1	512	High income
+5057	SWE	Sweden	Europe & Central Asia	2020	1	752	High income
+5183	TJK	Tajikistan	Europe & Central Asia	2020	4	762	Lower middle income
+5246	THA	Thailand	East Asia & Pacific	2020	1	764	Upper middle income
+5309	UGA	Uganda	Sub-Saharan Africa	2020	3	800	Low income
+5343	MDV	Maldives	South Asia	2020	4	462	Upper middle income
+5406	MCO	Monaco	Europe & Central Asia	2020	1	492	High income
+5469	ZWE	Zimbabwe	Sub-Saharan Africa	2020	4	716	Lower middle income
+5514	VCT	St. Vincent and the Grenadines	Latin America & Caribbean	2020	4	670	Upper middle income
+5577	JAM	Jamaica	Latin America & Caribbean	2020	1	388	Upper middle income
+5640	TTO	Trinidad and Tobago	Latin America & Caribbean	2020	1	780	High income
+5678	LUX	Luxembourg	Europe & Central Asia	2020	1	442	High income
+5741	LTU	Lithuania	Europe & Central Asia	2020	1	440	High income
+5804	PSE	West Bank and Gaza	Middle East & North Africa	2020	1	275	Lower middle income
+5867	UZB	Uzbekistan	Europe & Central Asia	2020	5	860	Lower middle income
+5980	RWA	Rwanda	Sub-Saharan Africa	2020	5	646	Low income
+6043	EST	Estonia	Europe & Central Asia	2020	1	233	High income
+6106	ROU	Romania	Europe & Central Asia	2020	1	642	High income
+6169	SAU	Saudi Arabia	Middle East & North Africa	2020	1	682	High income
+6247	EGY	Egypt, Arab Rep.	Middle East & North Africa	2020	1	818	Lower middle income
+6310	YEM	Yemen, Rep.	Middle East & North Africa	2020	2	887	Low income
+6373	VIR	Virgin Islands (U.S.)	Latin America & Caribbean	2020	1	850	High income
+6450	SUR	Suriname	Latin America & Caribbean	2020	1	740	Upper middle income
+6513	USA	United States	North America	2020	1	840	High income
+6615	MAF	St. Martin (French part)	Latin America & Caribbean	2020	1	663	High income
+6678	GRD	Grenada	Latin America & Caribbean	2020	4	308	Upper middle income
+6715	ZMB	Zambia	Sub-Saharan Africa	2020	3	894	Low income
+6778	VUT	Vanuatu	East Asia & Pacific	2020	4	548	Lower middle income
+6841	MNE	Montenegro	Europe & Central Asia	2020	1	499	Upper middle income
+6904	SLV	El Salvador	Latin America & Caribbean	2020	1	222	Lower middle income
+6967	GHA	Ghana	Sub-Saharan Africa	2020	4	288	Lower middle income
+7048	ITA	Italy	Europe & Central Asia	2020	1	380	High income
+7103	KEN	Kenya	Sub-Saharan Africa	2020	4	404	Lower middle income
+7166	TKM	Turkmenistan	Europe & Central Asia	2020	1	795	Upper middle income
+7229	VNM	Vietnam	East Asia & Pacific	2020	1	704	Lower middle income
+7324	PRT	Portugal	Europe & Central Asia	2020	1	620	High income
+7442	MOZ	Mozambique	Sub-Saharan Africa	2020	4	508	Low income
+7505	NER	Niger	Sub-Saharan Africa	2020	3	562	Low income
+7568	NZL	New Zealand	East Asia & Pacific	2020	1	554	High income
+7631	NOR	Norway	Europe & Central Asia	2020	1	578	High income
+7694	MKD	North Macedonia	Europe & Central Asia	2020	1	807	Upper middle income
+7757	IDN	Indonesia	East Asia & Pacific	2020	1	360	Lower middle income
+7820	MHL	Marshall Islands	East Asia & Pacific	2020	3	584	Upper middle income
+7883	ATG	Antigua and Barbuda	Latin America & Caribbean	2020	1	28	High income
+7946	BHR	Bahrain	Middle East & North Africa	2020	1	48	High income
+8009	BOL	Bolivia	Latin America & Caribbean	2020	1	68	Lower middle income
+8072	BRN	Brunei Darussalam	East Asia & Pacific	2020	1	96	High income
+8124	MYS	Malaysia	East Asia & Pacific	2020	1	458	Upper middle income
+8153	UKR	Ukraine	Europe & Central Asia	2020	1	804	Lower middle income
+8216	SEN	Senegal	Sub-Saharan Africa	2020	4	686	Lower middle income
+8279	FRO	Faroe Islands	Europe & Central Asia	2020	1	234	High income
+8342	STP	Sao Tome and Principe	Sub-Saharan Africa	2020	3	678	Lower middle income
+8405	AFG	Afghanistan	South Asia	2020	2	4	Low income
+8419	LAO	Lao PDR	East Asia & Pacific	2020	4	418	Lower middle income
+8482	KGZ	Kyrgyz Republic	Europe & Central Asia	2020	5	417	Lower middle income
+8545	GNQ	Equatorial Guinea	Sub-Saharan Africa	2020	1	226	Upper middle income
+8608	MAR	Morocco	Middle East & North Africa	2020	1	504	Lower middle income
+8671	NLD	Netherlands	Europe & Central Asia	2020	1	528	High income
+8734	NCL	New Caledonia	East Asia & Pacific	2020	1	540	High income
+8765	ETH	Ethiopia	Sub-Saharan Africa	2020	4	231	Low income
+8828	SMR	San Marino	Europe & Central Asia	2020	1	674	High income
+8891	GIN	Guinea	Sub-Saharan Africa	2020	3	324	Low income
+8954	GUM	Guam	East Asia & Pacific	2020	1	316	High income
+9017	GRL	Greenland	Europe & Central Asia	2020	1	304	High income
+9080	FIN	Finland	Europe & Central Asia	2020	1	246	High income
+9143	GRC	Greece	Europe & Central Asia	2020	1	300	High income
+9206	HTI	Haiti	Latin America & Caribbean	2020	3	332	Lower middle income
+9269	HKG	Hong Kong SAR, China	East Asia & Pacific	2020	1	344	High income
+9332	HUN	Hungary	Europe & Central Asia	2020	1	348	High income
+9395	BHS	Bahamas, The	Latin America & Caribbean	2020	1	44	High income
+9458	BEN	Benin	Sub-Saharan Africa	2020	4	204	Lower middle income
+9469	LBR	Liberia	Sub-Saharan Africa	2020	3	430	Low income
+9532	ECU	Ecuador	Latin America & Caribbean	2020	1	218	Upper middle income
+9595	MNP	Northern Mariana Islands	East Asia & Pacific	2020	1	580	High income
+9658	NIC	Nicaragua	Latin America & Caribbean	2020	4	558	Lower middle income
+9721	PYF	French Polynesia	East Asia & Pacific	2020	1	258	High income
+9784	FRA	France	Europe & Central Asia	2020	1	250	High income
+9823	SRB	Serbia	Europe & Central Asia	2020	1	688	Upper middle income
+9886	GAB	Gabon	Sub-Saharan Africa	2020	1	266	Upper middle income
+9949	GEO	Georgia	Europe & Central Asia	2020	1	268	Upper middle income
+10012	GMB	Gambia, The	Sub-Saharan Africa	2020	4	270	Low income
+10075	DEU	Germany	Europe & Central Asia	2020	1	276	High income
+10138	HND	Honduras	Latin America & Caribbean	2020	4	340	Lower middle income
+10201	IRQ	Iraq	Middle East & North Africa	2020	1	368	Upper middle income
+10264	MLT	Malta	Middle East & North Africa	2020	1	470	High income
+10327	AZE	Azerbaijan	Europe & Central Asia	2020	1	31	Upper middle income
+10390	CAN	Canada	North America	2020	1	124	High income
+10433	GTM	Guatemala	Latin America & Caribbean	2020	1	320	Upper middle income
+10496	ABW	Aruba	Latin America & Caribbean	2020	1	533	High income
+10559	CIV	Cote d'Ivoire	Sub-Saharan Africa	2020	3	384	Lower middle income
+10588	PRY	Paraguay	Latin America & Caribbean	2020	1	600	Upper middle income
+10651	PAN	Panama	Latin America & Caribbean	2020	1	591	High income
+10777	DZA	Algeria	Middle East & North Africa	2020	1	12	Lower middle income
+10840	AND	Andorra	Europe & Central Asia	2020	1	20	High income
+10903	MLI	Mali	Sub-Saharan Africa	2020	3	466	Low income
+10966	ASM	American Samoa	East Asia & Pacific	2020	1	16	Upper middle income
+11036	NRU	Nauru	East Asia & Pacific	2020	1	520	High income
+11099	WSM	Samoa	East Asia & Pacific	2020	4	882	Lower middle income
+11162	SWZ	Eswatini	Sub-Saharan Africa	2020	1	748	Lower middle income
+11351	BFA	Burkina Faso	Sub-Saharan Africa	2020	4	854	Low income
+11449	PLW	Palau	East Asia & Pacific	2020	1	585	Upper middle income
+11512	PHL	Philippines	East Asia & Pacific	2020	1	608	Lower middle income
+11575	PRI	Puerto Rico	Latin America & Caribbean	2020	1	630	High income
+11638	GUY	Guyana	Latin America & Caribbean	2020	3	328	Upper middle income
+11701	ISL	Iceland	Europe & Central Asia	2020	1	352	High income
+11764	IRL	Ireland	Europe & Central Asia	2020	1	372	High income
+11827	AUS	Australia	East Asia & Pacific	2020	1	36	High income
+11890	BGD	Bangladesh	South Asia	2020	3	50	Lower middle income
+11953	BLR	Belarus	Europe & Central Asia	2020	1	112	Upper middle income
+12079	CYP	Cyprus	Europe & Central Asia	2020	1	196	High income
+12145	NGA	Nigeria	Sub-Saharan Africa	2020	3	566	Lower middle income
+12208	PER	Peru	Latin America & Caribbean	2020	1	604	Upper middle income
+12334	ARM	Armenia	Europe & Central Asia	2020	1	51	Upper middle income
+12538	IND	India	South Asia	2020	1	356	Lower middle income
+12601	BLZ	Belize	Latin America & Caribbean	2020	1	84	Upper middle income
+12664	BRB	Barbados	Latin America & Caribbean	2020	1	52	High income
+12727	COG	Congo, Rep.	Sub-Saharan Africa	2020	3	178	Lower middle income
+12790	CUW	Curacao	Latin America & Caribbean	2020	1	531	High income
+12864	ARE	United Arab Emirates	Middle East & North Africa	2020	1	784	High income
+12927	POL	Poland	Europe & Central Asia	2020	1	616	High income
+12990	FJI	Fiji	East Asia & Pacific	2020	4	242	Upper middle income
+13344	KHM	Cambodia	East Asia & Pacific	2020	4	116	Lower middle income
+13407	BDI	Burundi	Sub-Saharan Africa	2020	4	108	Low income
+13470	CMR	Cameroon	Sub-Saharan Africa	2020	3	120	Lower middle income
+13596	CPV	Cabo Verde	Sub-Saharan Africa	2020	4	132	Lower middle income
+13659	COD	Congo, Dem. Rep.	Sub-Saharan Africa	2020	3	180	Low income
+13722	CAF	Central African Republic	Sub-Saharan Africa	2020	3	140	Low income
+13987	CHN	China	East Asia & Pacific	2020	1	156	Upper middle income
+14170	HRV	Croatia	Europe & Central Asia	2020	1	191	High income
+14368	AGO	Angola	Sub-Saharan Africa	2020	1	24	Lower middle income
+14431	AUT	Austria	Europe & Central Asia	2020	1	40	High income
+14494	ARG	Argentina	Latin America & Caribbean	2020	1	32	Upper middle income
+14557	BMU	Bermuda	North America	2020	1	60	High income
+14620	BEL	Belgium	Europe & Central Asia	2020	1	56	High income
+14683	BTN	Bhutan	South Asia	2020	4	64	Lower middle income
+14746	BRA	Brazil	Latin America & Caribbean	2020	1	76	Upper middle income
+14809	BIH	Bosnia and Herzegovina	Europe & Central Asia	2020	1	70	Upper middle income
+14872	BWA	Botswana	Sub-Saharan Africa	2020	1	72	Upper middle income
+14937	ALB	Albania	Europe & Central Asia	2020	1	8	Upper middle income
+15000	COL	Colombia	Latin America & Caribbean	2020	1	170	Upper middle income
+15063	TCD	Chad	Sub-Saharan Africa	2020	3	148	Low income
+15104	COM	Comoros	Sub-Saharan Africa	2020	3	174	Lower middle income
+15314	LBN	Lebanon	Middle East & North Africa	2020	1	422	Lower middle income
+15377	TZA	Tanzania	Sub-Saharan Africa	2020	3	834	Lower middle income
+15440	GIB	Gibraltar	Europe & Central Asia	2020	1	292	High income
+15544	CYM	Cayman Islands	Latin America & Caribbean	2020	1	136	High income
+15613	GNB	Guinea-Bissau	Sub-Saharan Africa	2020	2	624	Low income
+15628	RUS	Russian Federation	Europe & Central Asia	2020	1	643	Upper middle income
+15691	QAT	Qatar	Middle East & North Africa	2020	1	634	High income
+15754	CUB	Cuba	Latin America & Caribbean	2020	1	192	Upper middle income
+16314	MMR	Myanmar	East Asia & Pacific	2020	3	104	Lower middle income
+16377	IRN	Iran, Islamic Rep.	Middle East & North Africa	2020	1	364	Lower middle income
+16440	VGB	British Virgin Islands	Latin America & Caribbean	2020	1	92	High income
+16503	BGR	Bulgaria	Europe & Central Asia	2020	1	100	Upper middle income
+16692	CRI	Costa Rica	Latin America & Caribbean	2020	1	188	Upper middle income
+16755	CHL	Chile	Latin America & Caribbean	2020	1	152	High income

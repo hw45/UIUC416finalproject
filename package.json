@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-buble": "latest",
+    "rollup": "latest"
+  },
+  "dependencies": {
+    "d3-svg-annotation": "^2.5.1"
+  }
+}
